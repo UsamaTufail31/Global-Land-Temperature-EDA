@@ -1,0 +1,33 @@
+# Data Analysis and Manipulation
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Missing Data Visualization
+missingno>=0.5.0
+
+# Scientific Computing and Statistics
+scipy>=1.9.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Time Series Analysis (optional but used in advanced cells)
+statsmodels>=0.13.0
+
+# Additional dependencies that might be needed
+# Jupyter notebook support (if running in notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# For better data handling and performance
+pytz>=2022.1
+python-dateutil>=2.8.0
+
+# Optional: For enhanced data processing
+openpyxl>=3.0.0  # For Excel file support
+xlrd>=2.0.0      # For older Excel formats
