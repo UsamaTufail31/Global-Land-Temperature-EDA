@@ -196,14 +196,12 @@ This project provides an in-depth analysis of global land temperatures using the
 ## File Structure
 
 ```
-EDA/
+Globle-Land-Temperature-EDA/
 │
 ├── EDA.ipynb                                    # Main analysis notebook
 ├── README.md                                    # This file
 ├── requirements.txt                             # Python dependencies
-├── GlobalLandTemperaturesByCountry.csv         # Dataset file
-├── GlobalLandTemperaturesByCountry.csv.zip     # Compressed dataset
-└── file.py                                     # Additional Python utilities
+└── GlobalLandTemperaturesByCountry.csv         # Dataset file
 ```
 
 ## Workflow
@@ -290,5 +288,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **If you found this analysis helpful, please consider giving it a star!**
 
 *Made with ❤️ for the Data Science Community*
+
 
 </div>
